@@ -1,5 +1,5 @@
 # E-COMMERCE SITE 
-This project is for E-com site Template using REACT JS
+This project is about E-com site Template using REACT JS
 
 OUTPUT - https://sha-alfa-ecom.netlify.app
 
