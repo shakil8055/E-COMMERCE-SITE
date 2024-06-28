@@ -9,7 +9,7 @@ function App() {
     {
       isSale:false,
       sale:"sale",
-      
+      image: "https://m.media-amazon.com/images/I/61IytOl+V7L._SY741_.jpg",
       productName:"T-Shirts",
       isPrice1:false,
       price1:null,
@@ -19,6 +19,7 @@ function App() {
     {
       isSale:true,
       sale:"sale",
+      image: "https://m.media-amazon.com/images/I/71-+ul3xupL._SX679_.jpg" ,
       productName:"Hoddie",
       isPrice1:true,
       price1:"₹699.00",
@@ -28,6 +29,7 @@ function App() {
     {
       isSale:true,
       sale:"sale",
+      image: "https://m.media-amazon.com/images/I/5187lqXpoVL._SY679_.jpg",
       productName:"Pyjama Set",
       isPrice1:true,
       price1:"₹1099.00",
@@ -37,6 +39,7 @@ function App() {
     {
       isSale:false,
       sale:"sale",
+      image: "https://m.media-amazon.com/images/I/41zk84ka1kL.jpg" ,
       productName:"Jumpsuit",
       isPrice1:true,
       price1:null,
@@ -46,6 +49,7 @@ function App() {
     {
       isSale:true,
       sale:"sale",
+      image: "https://m.media-amazon.com/images/I/51hW54rOs6L._SY550_.jpg" ,
       productName:"Shape Wear",
       isPrice1:true,
       price1:"₹599.00",
@@ -55,6 +59,7 @@ function App() {
     {
       isSale:false,
       sale:"sale",
+      image: "https://m.media-amazon.com/images/I/71IiAPM9JSL._SX522_.jpg" ,
       productName:"Plazo",
       isPrice1:false,
       price1:null,
@@ -64,6 +69,7 @@ function App() {
     {
       isSale:true,
       sale:"sale",
+      image: "https://m.media-amazon.com/images/I/5187kfIjzjL._SY679_.jpg" ,
       productName:"Leggings",
       isPrice1:true,
       price1:"₹559.00",
@@ -73,6 +79,7 @@ function App() {
     {
       isSale:false,
       sale:"sale",
+      image: "https://m.media-amazon.com/images/I/71U2blrWtIL._SY500_.jpg" ,
       productName:"Patiyala",
       isPrice1:true,
       price1:null,

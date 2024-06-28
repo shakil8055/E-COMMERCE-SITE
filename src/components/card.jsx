@@ -13,11 +13,10 @@ function Card({ cart, setCart, data }) {
           {/* Checking whether the product has sale button or not and the text sale is displayed */}
           {data.isSale ? data.sale : null}
         </div>
-        <img
-          className="card-img-top"
-          src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg"
-          alt="..."
-        />
+        
+        <img className="cardimg card-img-top" src={data.image}  alt="..." />
+        
+        
         <div className="card-body p-4">
           <div className="text-center">
             <h5 className="fw-bolder">{data.productName}</h5>
