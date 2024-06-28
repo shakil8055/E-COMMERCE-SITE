@@ -97,7 +97,7 @@ function App() {
         </div>
       </section>
     <footer className="footer py-5">
-    <div className="container"><p className="m-0 text-center text-white">Copyright &copy; alfa garments 2024</p></div>
+    <div className="container"><p className="m-0 text-center ">Copyright &copy; alfa garments 2024</p></div>
 </footer>
 </>
 }

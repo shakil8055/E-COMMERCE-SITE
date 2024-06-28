@@ -78,11 +78,29 @@
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
 }
+.navbar{
+  background-color: rgb(222,225,230) ;
+  margin-bottom: 5px;
+}
 .header{
-  background-color:#d63384  ;
+  display: flex;
+  background-color:#FF00FF ;
+}
+.logo{
+  display: inline-flex;
+  align-content: end;
+  width: 200px;
+  height: 200px;
+}
+.headerText{
+  justify-content: center;
+  align-items: end;
+  display: flex;
+  flex-direction: column;
+
 }
 .footer{
-  background-color: #d63384 ;
+  background-color: rgb(222,225,230) ;
 }
 
 .Logo {
