@@ -1,4 +1,7 @@
-# React + Vite
+# E-COMMERCE SITE 
+This project is about E-com site Template using REACT JS
+
+OUTPUT - https://sha-alfa-ecom.netlify.app
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
