@@ -66,7 +66,7 @@ function TopBar({ cart, setCart }) {
           <form className="d-flex">
             <button className="btn btn-outline-dark" onClick={() => setCart(0)}>
               <i className="bi-cart-fill me-1"></i>
-              🛒 Cart
+               Cart
               <span className="badge bg-dark text-white ms-1 rounded-pill">
                 {cart}
               </span>

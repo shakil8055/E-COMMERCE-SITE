@@ -12,8 +12,8 @@ function Header() {
             </div>
          <div className="headerText col-8 text-end text-white">
 
-          <h1 className="display-4 fw-bolder">Shop in Style</h1>
-          <p className="lead fw-normal text-white-50 mb-0">Women's Garment</p>
+          <h1 className="display-4 fw-bolder">Feel the comfort</h1>
+          <p className="lead fw-normal text-white mb-0">Women's Garment</p>
          </div>
       </div>
     </header>
